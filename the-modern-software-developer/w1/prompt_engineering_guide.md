@@ -14,4 +14,6 @@
 7. [Few-Shot Prompting](peg_07_few_shot_prompting.md)
 8. [Chain-of-Thought Prompting](peg_08_chain_of_thought_prompting.md)
 9. [Meta Prompting](peg_09_meta_prompting.md)
-10. [Self-Consistency]
+10. [Self-Consistency](peg_10_self_consistency.md)
+11. [Generated Knowledge Prompting](peg_11_generated_knowledge_prompting.md)
+12. [Prompt Chaining](peg_12_prompt_chaining.md)
