@@ -1,5 +1,7 @@
 # Prompt engineering: overview and guide
 
+Bài viết được dịch từ: https://cloud.google.com/discover/what-is-prompt-engineering
+
 Sự nổi lên của các mô hình ngôn ngữ lớn (LLMs) đã mở ra những khả năng thú vị cho tương tác giữa con người và máy tính. Tuy nhiên, để khai thác tối đa tiềm năng của những mô hình AI mạnh mẽ này, một kỹ năng then chốt là cần thiết: **prompt engineering**. Lĩnh vực đang phát triển nhanh chóng này tập trung vào việc xây dựng các prompt hiệu quả nhằm khơi mở khả năng của các LLM, giúp chúng hiểu được ý định, tuân theo chỉ dẫn và tạo ra đầu ra như mong muốn. Khi mức độ tương tác của chúng ta với AI ngày càng gia tăng trong nhiều ứng dụng khác nhau, prompt engineering đóng vai trò thiết yếu trong việc đảm bảo các tương tác diễn ra chính xác, phù hợp và an toàn.
 
 ## What is prompt engineering?
