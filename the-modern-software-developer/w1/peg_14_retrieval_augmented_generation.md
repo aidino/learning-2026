@@ -1,6 +1,6 @@
-# Title 
+# Retrieval Augmented Generation (RAG) 
 
-Nội dung được dịch từ: 
+Reference: https://www.promptingguide.ai/techniques/rag
 
 ## Explain by Gemini 3
 

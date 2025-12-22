@@ -71,3 +71,7 @@ Tree of Thoughts đưa AI từ một "người nói nhanh nhưng đôi khi ẩu"
 
 
 --- 
+
+Code reference: 
+- https://github.com/princeton-nlp/tree-of-thought-llm - 5.7k stars
+- https://github.com/kyegomez/tree-of-thoughts - 4.6k stars
