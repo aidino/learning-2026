@@ -1,0 +1,3 @@
+- https://adventofagents.com/
+- https://github.com/anxiong2025/25-Day-Agents-Course-by-Google
+- https://github.com/GoogleCloudPlatform/agent-starter-pack
