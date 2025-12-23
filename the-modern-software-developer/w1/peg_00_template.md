@@ -1,6 +1,6 @@
 # Title 
 
-Nội dung được dịch từ: 
+Reference:
 
 ## Explain by Gemini 3
 
