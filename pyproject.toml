@@ -1,0 +1,17 @@
+[project]
+name = "learning-2026"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-adk>=1.21.0",
+    "graphiti-core>=0.25.0",
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.8",
+    "openai>=2.14.0",
+    "pinecone>=8.0.0",
+    "spacy>=3.8.11",
+    "tenacity>=9.1.2",
+    "tqdm>=4.67.1",
+]

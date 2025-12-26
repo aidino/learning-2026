@@ -31,4 +31,5 @@
 
 ## AI Agents
 
-24. [Introduction to AI Agents]
+24. [Introduction to AI Agents](peg_24_introduction_to_ai_agents.md)
+25. [Agent Components](peg_25_agent_components.md)
