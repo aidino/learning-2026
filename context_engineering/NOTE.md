@@ -246,3 +246,8 @@ Thông tin không chỉ được truyền đi dưới dạng văn bản thô. M�
   <img src="images/image_03.png" width="800" alt="alt text" />
 </div>
 
+## Chapter 4 Context Engine
+
+<div align="center">
+  <img src="images/image_04.png" width="800" alt="alt text" />
+</div>
