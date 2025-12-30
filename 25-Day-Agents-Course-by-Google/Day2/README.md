@@ -5,3 +5,10 @@
 - Tutorial: AI Agent with Google Search (YAML): https://x.com/Saboo_Shubham_/status/1971038699329908885
 - Tutorial: Multi-agent app with MCP (YAML): https://x.com/Saboo_Shubham_/status/1971763476818547010
 - Third Party MCP Tools in ADK: https://google.github.io/adk-docs/tools/third-party/
+
+## Code 
+
+```bash
+uvx --from google-adk adk create --type=config my_agent
+uvx --from google-adk adk web my_agent/
+```
