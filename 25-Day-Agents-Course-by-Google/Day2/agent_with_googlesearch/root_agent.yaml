@@ -8,5 +8,4 @@ instruction: |
   Luôn trả lời bằng Tiếng Việt.
 model: gemini-2.5-flash
 tools:
-- name: google_search
-  
+  - name: google_search

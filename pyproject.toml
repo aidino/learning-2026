@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "a2a-sdk>=0.3.22",
     "agent-starter-pack>=0.29.3",
     "firecrawl-py>=4.12.0",
     "google-adk>=1.21.0",
@@ -17,4 +18,5 @@ dependencies = [
     "tenacity>=9.1.2",
     "tiktoken>=0.12.0",
     "tqdm>=4.67.1",
+    "uvicorn>=0.40.0",
 ]

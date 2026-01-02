@@ -1,0 +1,18 @@
+{
+  "name": "orientation_librarian",
+  "description": "Kích hoạt tư duy 'Tại sao' bằng Andragogy và 4MAT Quadrant 1",
+  "url": "http://localhost:10001/a2a",
+  "version": "1.0.0",
+  "capabilities": { "streaming": true },
+  "defaultInputModes": ["text/plain"],
+  "defaultOutputModes": ["text/plain"],
+  "skills": [
+    {
+      "id": "activate_why",
+      "name": "Why Thinking Activation",
+      "description": "Truy vấn mục đích và tạo sự kết nối cá nhân cho việc học",
+      "tags": ["learning", "orientation"],
+      "examples": ["Tôi muốn hiểu sâu về giao thức A2A"]
+    }
+  ]
+}
